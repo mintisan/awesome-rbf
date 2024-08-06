@@ -1,12 +1,12 @@
-# Awesome RBF(Radial Basis Function)
+# Awesome RBF(Radial Basis Functions)
 
-A comprehensive collection of  RBF(Radial Basis Function)-related resources, including libraries, projects, tutorials, papers, books and more, for researchers and developers in the Radial Basis Function field.
+A comprehensive collection of  RBF(Radial Basis Functions)-related resources, including libraries, projects, tutorials, papers, books and more, for researchers and developers in the Radial Basis Functions field.
 
 
 
 ## Table of Contents
 
-- [Awesome RBF(Radial Basis Function)](#awesome-radial-basis-function)
+- [Awesome RBF(Radial Basis Functions)](#awesome-radial-basis-functions)
   - [Table of Contents](#table-of-contents)
   - [Tutorial](#tutorial)
   - [Paper](#paper)
