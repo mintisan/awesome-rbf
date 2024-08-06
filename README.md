@@ -46,7 +46,7 @@ A comprehensive collection of  RBF(Radial Basis Function)-related resources, inc
 ## Book
 
 - 2004-[Radial Basis Functions: Theory and Implementations](https://zh.singlelogin.re/book/764092/ea95c0/radial-basis-functions-theory-and-implementations.html)
-- 2016-[Black Box Optimization with Exact Subsolvers : A Radial Basis Function Algorithm for Problems with Convex Constraints](https://zh.singlelogin.re/book/25828031/0054e6/black-box-optimization-with-exact-subsolvers-a-radial-basis-function-algorithm-for-problems-with-c.html)
+- 2016-[Black Box Optimization with Exact Subsolvers : A Radial Basis Function Algorithm for Problems with Convex Constraints](https://dokumen.pub/black-box-optimization-with-exact-subsolvers-a-radial-basis-function-algorithm-for-problems-with-convex-constraints-1nbsped-9783832591465-9783832543297.html)
 - 2014-[Recent Advances in Radial Basis Function Collocation Methods](https://zh.singlelogin.re/book/2261516/6e2ea0/recent-advances-in-radial-basis-function-collocation-methods.html)
 - 2015-[Spherical Radial Basis Functions, Theory and Applications](https://zh.singlelogin.re/book/2570601/b4e016/spherical-radial-basis-functions-theory-and-applications.html)
 - 2007-[Meshfree Approximation Methods with MATLAB](https://zh.singlelogin.re/book/2472384/d21510/meshfree-approximation-methods-with-matlab.html)
