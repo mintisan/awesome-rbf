@@ -51,6 +51,10 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [scikit-learn.RBF](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html)
 - [jarkki/cpp-rbf](https://github.com/jarkki/cpp-rbf) : Linearly parameterized Gaussian Radial Basis Function approximator written in C++
 - [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
+- [yuki-koyama/rbf-interpolator](https://github.com/yuki-koyama/rbf-interpolator) : [deprecated] Radial Basis Function (RBF) Interpolation written in C++11. This can be used for fitting a non-linear function from scattered data.
+- [yuki-koyama/mathtoolbox](https://github.com/yuki-koyama/mathtoolbox) : Mathematical tools (interpolation, dimensionality reduction, optimization, etc.) written in C++11 with Eigen  https://yuki-koyama.github.io/mathtoolbox/rbf-interpolation/
+
+
 
 ## Book
 
