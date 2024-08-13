@@ -39,6 +39,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Paper
 
+- 2001-[Reconstruction and Representation of 3D Objects with Radial Basis Function](https://www.cs.jhu.edu/~misha/Fall05/Papers/carr01.pdf)
 - [Interpolation Using Surface Splines](https://sci-hub.se/10.2514/3.44330)
 - [PetRBF--A parallel O(N) algorithm for radial basis function interpolation](https://arxiv.org/abs/0909.5413)
 - 2001-[A Radial Basis Function Method for Global Optimization](https://link.springer.com/article/10.1023/A:1011255519438)
