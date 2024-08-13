@@ -50,6 +50,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [linebender/rbf-interp](https://github.com/linebender/rbf-interp) : An implementation of Radial Basis Function multidimensional interpolation
 - [scikit-learn.RBF](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html)
 - [jarkki/cpp-rbf](https://github.com/jarkki/cpp-rbf) : Linearly parameterized Gaussian Radial Basis Function approximator written in C++
+- [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
 
 ## Book
 
