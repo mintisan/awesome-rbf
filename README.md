@@ -33,6 +33,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [Radial Basis Function Interpolation](https://core.ac.uk/download/pdf/37320748.pdf)
 - [AlgLib Introduction to RBFs](https://www.alglib.net/interpolation/introductiontorbfs.php)
 - [Radial Basis Function (RBF) Kernel: The Go-To Kernel](https://towardsdatascience.com/radial-basis-function-rbf-kernel-the-go-to-kernel-acf0d22c798a)
+- [Test Run - Radial Basis Function Networks for Programmers](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/october/test-run-radial-basis-function-networks-for-programmers)
 
 ## Paper
 
