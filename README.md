@@ -18,6 +18,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Tutorial
 
+- [Scattered Data Interpolation for Computer Graphics v1.0](http://www.scribblethink.org/Courses/ScatteredInterpolation/scatteredinterpcoursenotes.pdf)
 - [径向基函数法（RBF）文献总结](https://www.cnblogs.com/xuruilong100/p/17893376.html)
 - [基于径向基函数(RBF)的函数插值](https://zfoox.blog.csdn.net/article/details/105670892)
 - [函数插值的python实现——拉格朗日、牛顿插值](https://blog.csdn.net/xfijun/article/details/108082019)
