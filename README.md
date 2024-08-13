@@ -42,9 +42,10 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Code
 
-- [RBF](https://github.com/treverhines/RBF) : Python package containing the tools necessary for radial basis function (RBF) applications
+- [treverhines-RBF](https://github.com/treverhines/RBF) : Python package containing the tools necessary for radial basis function (RBF) applications
 - [scipy.interpolate.Rbf](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.Rbf.html)
 - [rbf-interp](https://github.com/linebender/rbf-interp) : An implementation of Radial Basis Function multidimensional interpolation
+- [scikit-learn.RBF](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html)
 
 ## Book
 
