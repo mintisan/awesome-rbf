@@ -18,7 +18,8 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Tutorial
 
-- [Scattered Data Interpolation for Computer Graphics v1.0](http://www.scribblethink.org/Courses/ScatteredInterpolation/scatteredinterpcoursenotes.pdf)
+- [**Scattered Data Interpolation for Computer Graphics v1.0**](http://www.scribblethink.org/Courses/ScatteredInterpolation/scatteredinterpcoursenotes.pdf)
+- [**Lectures on Radial Basis Functions**](https://www.math.unipd.it/~demarchi/RBF/LectureNotes.pdf#page=47.74)
 - [径向基函数法（RBF）文献总结](https://www.cnblogs.com/xuruilong100/p/17893376.html)
 - [基于径向基函数(RBF)的函数插值](https://zfoox.blog.csdn.net/article/details/105670892)
 - [函数插值的python实现——拉格朗日、牛顿插值](https://blog.csdn.net/xfijun/article/details/108082019)
@@ -26,7 +27,6 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [Thin Plate Spline TPS薄板样条变换基础理解](https://blog.csdn.net/c0ldHEart/article/details/121336266)
 - [Thin Plate Spline (薄板样条函数)(TPS)](https://www.cnblogs.com/mysunnyday/archive/2011/08/27/2155375.html)
 - [Thin plate spline](https://www.wikiwand.com/en/Thin_plate_spline)
-- [Lectures on Radial Basis Functions](https://www.math.unipd.it/~demarchi/RBF/LectureNotes.pdf#page=47.74)
 - [Radial basis function (RBF) approximations for PDE problems](https://www2.it.uu.se/itwiki.php?page=about_us/divisions/scientific_computing/project/rbf&action=browse)
 - [Scattered Data Interpolation for Computer Graphics](http://scribblethink.org/Courses/ScatteredInterpolation/scatteredinterpcoursenotes.pdf)
 - [Data Interpolation with Radial Basis Functions (RBFs)](https://shihchinw.github.io/2018/10/data-interpolation-with-radial-basis-functions-rbfs.html)
@@ -39,9 +39,9 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Paper
 
-- 2001-[Reconstruction and Representation of 3D Objects with Radial Basis Function](https://www.cs.jhu.edu/~misha/Fall05/Papers/carr01.pdf)
-- [Interpolation Using Surface Splines](https://sci-hub.se/10.2514/3.44330)
-- [PetRBF--A parallel O(N) algorithm for radial basis function interpolation](https://arxiv.org/abs/0909.5413)
+- 2001-[**Reconstruction and Representation of 3D Objects with Radial Basis Function**](https://www.cs.jhu.edu/~misha/Fall05/Papers/carr01.pdf)
+- 1972-[Interpolation Using Surface Splines](https://sci-hub.se/10.2514/3.44330)
+- 2009-[PetRBF--A parallel O(N) algorithm for radial basis function interpolation](https://arxiv.org/abs/0909.5413)
 - 2001-[A Radial Basis Function Method for Global Optimization](https://link.springer.com/article/10.1023/A:1011255519438)
 - 2017-[On thin plate spline interpolation](https://arxiv.org/pdf/1705.05178)
 - 2024-[Efficient estimation for a smoothing thin plate spline in a two-dimensional space](https://arxiv.org/pdf/2404.01902)
