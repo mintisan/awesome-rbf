@@ -48,20 +48,20 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Code
 
-- [treverhines/RBF](https://github.com/treverhines/RBF) : Python package containing the tools necessary for radial basis function (RBF) applications
+- [**treverhines/RBF**](https://github.com/treverhines/RBF) : Python package containing the tools necessary for radial basis function (RBF) applications
 - [scipy.interpolate.Rbf](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.Rbf.html)
 - [linebender/rbf-interp](https://github.com/linebender/rbf-interp) : An implementation of Radial Basis Function multidimensional interpolation
 - [scikit-learn.RBF](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html)
 - [jarkki/cpp-rbf](https://github.com/jarkki/cpp-rbf) : Linearly parameterized Gaussian Radial Basis Function approximator written in C++
 - [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
+- [**yuki-koyama/mathtoolbox**](https://github.com/yuki-koyama/mathtoolbox) : Mathematical tools (interpolation, dimensionality reduction, optimization, etc.) written in C++11 with Eigen  https://yuki-koyama.github.io/mathtoolbox/rbf-interpolation/
 - [yuki-koyama/rbf-interpolator](https://github.com/yuki-koyama/rbf-interpolator) : [deprecated] Radial Basis Function (RBF) Interpolation written in C++11. This can be used for fitting a non-linear function from scattered data.
-- [yuki-koyama/mathtoolbox](https://github.com/yuki-koyama/mathtoolbox) : Mathematical tools (interpolation, dimensionality reduction, optimization, etc.) written in C++11 with Eigen  https://yuki-koyama.github.io/mathtoolbox/rbf-interpolation/
 
 
 
 ## Book
 
-- 2004-[Radial Basis Functions: Theory and Implementations](https://zh.singlelogin.re/book/764092/ea95c0/radial-basis-functions-theory-and-implementations.html)
+- 2004-[**Radial Basis Functions: Theory and Implementations**](https://zh.singlelogin.re/book/764092/ea95c0/radial-basis-functions-theory-and-implementations.html)
 - 2016-[Black Box Optimization with Exact Subsolvers : A Radial Basis Function Algorithm for Problems with Convex Constraints](https://dokumen.pub/black-box-optimization-with-exact-subsolvers-a-radial-basis-function-algorithm-for-problems-with-convex-constraints-1nbsped-9783832591465-9783832543297.html)
 - 2014-[Recent Advances in Radial Basis Function Collocation Methods](https://zh.singlelogin.re/book/2261516/6e2ea0/recent-advances-in-radial-basis-function-collocation-methods.html)
 - 2015-[Spherical Radial Basis Functions, Theory and Applications](https://zh.singlelogin.re/book/2570601/b4e016/spherical-radial-basis-functions-theory-and-applications.html)
