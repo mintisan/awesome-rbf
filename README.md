@@ -36,6 +36,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [Radial Basis Function (RBF) Kernel: The Go-To Kernel](https://towardsdatascience.com/radial-basis-function-rbf-kernel-the-go-to-kernel-acf0d22c798a)
 
 ### RBF Network
+- [Introduction to radial basis function networks](https://scholar.google.com/scholar_url?url=ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Control%2520Inteligente/Parte%2520III/clase%252023%2520int/rbf.pdf&hl=en&sa=T&oi=gsr-r-ggp&ct=res&cd=0&d=11726038130372679903&ei=NmW9ZuDYKP-Xy9YPt--fgQ4&scisig=AFWwaebPjP8OImliA4bryObn39d7)
 - [Test Run - Radial Basis Function Networks for Programmers](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/october/test-run-radial-basis-function-networks-for-programmers)
 - [Radial Basis Function Networks (RBFNs) with Python 3: A Comprehensive Guide](https://innovationyourself.com/radial-basis-function-networks-rbfn/)
 
