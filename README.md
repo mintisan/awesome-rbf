@@ -18,6 +18,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Tutorial
 
+- [On radial basis functions](https://publications.mfo.de/bitstream/handle/mfo/1410/snapshot-2019-002.pdf)
 - [**Scattered Data Interpolation for Computer Graphics v1.0**](http://www.scribblethink.org/Courses/ScatteredInterpolation/scatteredinterpcoursenotes.pdf)
 - [**Lectures on Radial Basis Functions**](https://www.math.unipd.it/~demarchi/RBF/LectureNotes.pdf#page=47.74)
 - [径向基函数法（RBF）文献总结](https://www.cnblogs.com/xuruilong100/p/17893376.html)
