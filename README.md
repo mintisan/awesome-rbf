@@ -64,6 +64,9 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 - [oarriaga/RBF-Network](https://github.com/oarriaga/RBF-Network) : Minimal implementation of a radial basis function network.
 - [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
+- [sintsh/RBF](https://github.com/sintsh/RBF) : Radial Basis Function Network
+
+
 
 
 
