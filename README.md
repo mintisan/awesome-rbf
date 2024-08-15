@@ -18,7 +18,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ## Tutorial
 
-- [On radial basis functions](https://publications.mfo.de/bitstream/handle/mfo/1410/snapshot-2019-002.pdf)
+- [**On radial basis functions**](https://publications.mfo.de/bitstream/handle/mfo/1410/snapshot-2019-002.pdf)
 - [**Scattered Data Interpolation for Computer Graphics v1.0**](http://www.scribblethink.org/Courses/ScatteredInterpolation/scatteredinterpcoursenotes.pdf)
 - [**Lectures on Radial Basis Functions**](https://www.math.unipd.it/~demarchi/RBF/LectureNotes.pdf#page=47.74)
 - [径向基函数法（RBF）文献总结](https://www.cnblogs.com/xuruilong100/p/17893376.html)
@@ -37,7 +37,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [Radial Basis Function (RBF) Kernel: The Go-To Kernel](https://towardsdatascience.com/radial-basis-function-rbf-kernel-the-go-to-kernel-acf0d22c798a)
 
 ### RBF Network
-- [Introduction to radial basis function networks](https://scholar.google.com/scholar_url?url=ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Control%2520Inteligente/Parte%2520III/clase%252023%2520int/rbf.pdf&hl=en&sa=T&oi=gsr-r-ggp&ct=res&cd=0&d=11726038130372679903&ei=NmW9ZuDYKP-Xy9YPt--fgQ4&scisig=AFWwaebPjP8OImliA4bryObn39d7)
+- [**Introduction to radial basis function networks**](https://scholar.google.com/scholar_url?url=ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Control%2520Inteligente/Parte%2520III/clase%252023%2520int/rbf.pdf&hl=en&sa=T&oi=gsr-r-ggp&ct=res&cd=0&d=11726038130372679903&ei=NmW9ZuDYKP-Xy9YPt--fgQ4&scisig=AFWwaebPjP8OImliA4bryObn39d7)
 - [Test Run - Radial Basis Function Networks for Programmers](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/october/test-run-radial-basis-function-networks-for-programmers)
 - [Radial Basis Function Networks (RBFNs) with Python 3: A Comprehensive Guide](https://innovationyourself.com/radial-basis-function-networks-rbfn/)
 
@@ -64,7 +64,7 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 
 ### RBF Network
 
-- [oarriaga/RBF-Network](https://github.com/oarriaga/RBF-Network) : Minimal implementation of a radial basis function network.
+- [**oarriaga/RBF-Network**](https://github.com/oarriaga/RBF-Network) : Minimal implementation of a radial basis function network.
 - [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
 - [sintsh/RBF](https://github.com/sintsh/RBF) : Radial Basis Function Network
 
