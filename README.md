@@ -34,8 +34,11 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [Radial Basis Function Interpolation](https://core.ac.uk/download/pdf/37320748.pdf)
 - [AlgLib Introduction to RBFs](https://www.alglib.net/interpolation/introductiontorbfs.php)
 - [Radial Basis Function (RBF) Kernel: The Go-To Kernel](https://towardsdatascience.com/radial-basis-function-rbf-kernel-the-go-to-kernel-acf0d22c798a)
+
+### RBF Network
 - [Test Run - Radial Basis Function Networks for Programmers](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/october/test-run-radial-basis-function-networks-for-programmers)
 - [Radial Basis Function Networks (RBFNs) with Python 3: A Comprehensive Guide](https://innovationyourself.com/radial-basis-function-networks-rbfn/)
+
 
 ## Paper
 
@@ -54,9 +57,14 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - [linebender/rbf-interp](https://github.com/linebender/rbf-interp) : An implementation of Radial Basis Function multidimensional interpolation
 - [scikit-learn.RBF](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html)
 - [jarkki/cpp-rbf](https://github.com/jarkki/cpp-rbf) : Linearly parameterized Gaussian Radial Basis Function approximator written in C++
-- [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
 - [**yuki-koyama/mathtoolbox**](https://github.com/yuki-koyama/mathtoolbox) : Mathematical tools (interpolation, dimensionality reduction, optimization, etc.) written in C++11 with Eigen  https://yuki-koyama.github.io/mathtoolbox/rbf-interpolation/
 - [yuki-koyama/rbf-interpolator](https://github.com/yuki-koyama/rbf-interpolator) : [deprecated] Radial Basis Function (RBF) Interpolation written in C++11. This can be used for fitting a non-linear function from scattered data.
+
+### RBF Network
+
+- [oarriaga/RBF-Network](https://github.com/oarriaga/RBF-Network) : Minimal implementation of a radial basis function network.
+- [RBF - Radial Basis Function Network Training](https://borgelt.net/rbf.html)
+
 
 
 
@@ -67,6 +75,9 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 - 2014-[Recent Advances in Radial Basis Function Collocation Methods](https://zh.singlelogin.re/book/2261516/6e2ea0/recent-advances-in-radial-basis-function-collocation-methods.html)
 - 2015-[Spherical Radial Basis Functions, Theory and Applications](https://zh.singlelogin.re/book/2570601/b4e016/spherical-radial-basis-functions-theory-and-applications.html)
 - 2007-[Meshfree Approximation Methods with MATLAB](https://zh.singlelogin.re/book/2472384/d21510/meshfree-approximation-methods-with-matlab.html)
+
+### RBF Network
+
 - 2013-[Radial Basis Function (RBF) Neural Network Control for Mechanical Systems: Design, Analysis and Matlab Simulation](https://zh.singlelogin.re/book/2115389/4c30b9/radial-basis-function-rbf-neural-network-control-for-mechanical-systems-design-analysis-and-matl.html)
 
 
