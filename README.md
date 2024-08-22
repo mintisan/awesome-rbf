@@ -7,7 +7,6 @@ A comprehensive collection of  RBF(Radial Basis Functions)-related resources, in
 ## Table of Contents
 
 - [Awesome RBF(Radial Basis Functions)](#awesome-radial-basis-functions)
-  - [Table of Contents](#table-of-contents)
   - [Tutorial](#tutorial)
   - [Paper](#paper)
   - [Code](#code)
